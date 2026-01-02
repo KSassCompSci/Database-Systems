@@ -1,6 +1,13 @@
-* # Database Systems (MySQL)
+* # Database Systems Projects (MySQL)
 
-Academic coursework and projects focused on relational database design and SQL querying using **MySQL** (skills directly transferable to **PostgreSQL**).
+* Academic coursework and projects focused on relational database design and SQL querying using **MySQL** (skills directly transferable to **PostgreSQL**).
+
+**Tech Stack:** SQL • MySQL • Relational Schema Design • Data Integrity
+
+### Project Highlights for Production Support:
+* **Complex Query Construction:** Designed and optimized SQL queries using inner/outer joins, subqueries, and aggregate functions to extract business intelligence.
+* **Schema Design:** developed normalized database structures (3NF) to ensure data consistency and reduce redundancy.
+* **Data Manipulation:** Handled bulk data insertion and updates, simulating the management of ETL pipelines and data maintenance.
 
 ## What this repository demonstrates
 - Writing **complex SQL** (multi-table JOINs, subqueries, aggregations, views)
