@@ -4,16 +4,16 @@
 
 **Tech Stack:** SQL • MySQL • Relational Schema Design • Data Integrity
 
-### Project Highlights for Production Support:
-* **Complex Query Construction:** Designed and optimized SQL queries using inner/outer joins, subqueries, and aggregate functions to extract business intelligence.
-* **Schema Design:** developed normalized database structures (3NF) to ensure data consistency and reduce redundancy.
-* **Data Manipulation:** Handled bulk data insertion and updates, simulating the management of ETL pipelines and data maintenance.
-
 ## What this repository demonstrates
 - Writing **complex SQL** (multi-table JOINs, subqueries, aggregations, views)
 - **Schema design** (normalization, keys/constraints, ER modeling)
 - Basic **query optimization** concepts (indexes, execution considerations)
 - Building and validating datasets for analytics/reporting-style outputs
+
+### Project Highlights for Production Support:
+* **Complex Query Construction:** Designed and optimized SQL queries using inner/outer joins, subqueries, and aggregate functions to extract business intelligence.
+* **Schema Design:** developed normalized database structures (3NF) to ensure data consistency and reduce redundancy.
+* **Data Manipulation:** Handled bulk data insertion and updates, simulating the management of ETL pipelines and data maintenance.
 
 ## Topics covered
 - Relational modeling & normalization (1NF/2NF/3NF)
